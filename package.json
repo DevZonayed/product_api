@@ -1,0 +1,14 @@
+{
+  "name": "product_api",
+  "version": "1.0.0",
+  "description": "This project for product data",
+  "main": "index.js",
+  "scripts": {
+    "db" : "json-server --watch db.json --port 6060"
+  },
+  "author": "Zonayed Ahamad",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
